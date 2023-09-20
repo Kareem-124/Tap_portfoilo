@@ -187,6 +187,9 @@ li a{
     .w-50 {
         width: 100%;
     }
+    .justify-content-end {
+        justify-content: center;
+    }
 }
 
 .nav {
@@ -198,9 +201,7 @@ li a{
     
 }
 
-.imageSize{
-    justify-content: center;
-}
+
 
 
 @media only screen and (max-width: 590px) {
