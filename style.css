@@ -7,7 +7,9 @@
     --thirdColorOpacity50: #3bbbdb78;
     --backgroundColor: #ffffff;
 }
-
+ul{
+    padding-inline-start: 0px;
+}
 .borderTest {
     border: 0px solid black;
 }
@@ -213,19 +215,17 @@ li a{
 .nav{
     font-size: large;
     justify-content: center;
+    
 }
-.navItem{
-    margin: 0px auto;
-}
-nav .container{
-    padding-left: 0;
-}
+
+
 }
 
 
 .navItem {
     list-style: none;
-    margin-left: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
     text-align: center;
     align-items: center;
     color: black;
