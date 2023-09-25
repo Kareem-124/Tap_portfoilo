@@ -25,7 +25,7 @@ const fun = (arr) => {
 
         if (dup == true) return arr[i];
     }
-    return arr[arr.length-1]
+    return arr[arr.length-1];
 
 }
 
